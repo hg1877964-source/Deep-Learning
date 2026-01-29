@@ -1,8 +1,7 @@
 # Deep-Learning
 深度学习代码
-# 深度学习课程设计：基于 Transformer 的稳健深度估计研究
+# 深度学习阅读笔记：计算机视觉相关论文阅读
 
-**作者：** [黄钢]  
 **硬件环境：** 单块 NVIDIA GeForce RTX 5070 (12GB/16GB VRAM)
 
 ## 1. 摘要 (Abstract)
